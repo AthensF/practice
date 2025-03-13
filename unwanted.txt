@@ -1,1 +1,3 @@
 I am writing on this all day long ....
+=== everything above here is committed ===
+Now what happens if I add a new line without commiting?
